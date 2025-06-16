@@ -1,2 +1,2 @@
 # Python-Assmt_Suraj-Gupta
-Contains the assignments given in the python lecture modules
+This contains the assignments given in the python lecture modules for practice
